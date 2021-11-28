@@ -64,3 +64,9 @@ LC_ALL=
 But prints the same error.
 
 ## I should study about yocto!
+
+Official tutorial. </br>
+https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html
+
+
+2021/11/20 runqemux86-64 done
